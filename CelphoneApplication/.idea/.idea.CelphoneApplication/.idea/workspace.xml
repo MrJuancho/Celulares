@@ -13,8 +13,9 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -29,12 +30,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1598" />
+          <entry key="cs" value="1969" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1598" />
+          <entry key="C#" value="1969" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -42,18 +43,19 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CelphoneApplication/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-33">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="592">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding>
-                <marker date="1539900594000" expanded="true" signature="6:38" ph="..." />
-                <marker date="1539900594000" expanded="true" signature="69:1523" ph="{...}" />
-                <marker date="1539900594000" expanded="true" signature="98:1521" ph="{...}" />
-                <marker date="1539900594000" expanded="true" signature="151:1515" ph="{...}" />
-                <marker date="1539900594000" expanded="true" signature="752:1470" ph="{...}" />
+                <marker date="1540504902000" expanded="false" signature="6:126" ph="..." />
+                <marker date="1540504902000" expanded="true" signature="157:2216" ph="{...}" />
+                <marker date="1540504902000" expanded="true" signature="186:2214" ph="{...}" />
+                <marker date="1540504902000" expanded="true" signature="239:2208" ph="{...}" />
+                <marker date="1540504902000" expanded="true" signature="412:486" ph="{...}" />
+                <marker date="1540504902000" expanded="true" signature="1400:2163" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -62,11 +64,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CelphoneApplication/Celular.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
+            <state relative-caret-position="46">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <marker date="1539900594000" expanded="true" signature="6:37" ph="..." />
-                <marker date="1539900594000" expanded="true" signature="66:2472" ph="{...}" />
                 <marker date="1539900594000" expanded="true" signature="93:2470" ph="{...}" />
                 <marker date="1539900594000" expanded="true" signature="191:917" ph="{...}" />
                 <marker date="1539900594000" expanded="true" signature="440:753" ph="{...}" />
@@ -87,6 +88,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CelphoneApplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -110,12 +114,12 @@
     <option name="width" value="960" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -133,6 +137,7 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,6 +145,7 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="SearchEverywhereHistoryKey" value="backgro&#9;ACTION&#9;Images.SetBackgroundImage" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,11 +190,12 @@
       <option name="presentableId" value="Default" />
       <updated>1539897062083</updated>
       <workItem from="1539897065397" duration="4158000" />
+      <workItem from="1540503255168" duration="1618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4158000" />
+    <option name="totallyTimeSpent" value="5776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -201,18 +208,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119936034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12100213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32893288" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32893288" />
@@ -220,18 +220,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32893288" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -247,13 +255,27 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CelphoneApplication/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <marker date="1540504902000" expanded="false" signature="6:126" ph="..." />
+            <marker date="1540504902000" expanded="true" signature="157:2216" ph="{...}" />
+            <marker date="1540504902000" expanded="true" signature="186:2214" ph="{...}" />
+            <marker date="1540504902000" expanded="true" signature="239:2208" ph="{...}" />
+            <marker date="1540504902000" expanded="true" signature="412:486" ph="{...}" />
+            <marker date="1540504902000" expanded="true" signature="1400:2163" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CelphoneApplication/Celular.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
+        <state relative-caret-position="46">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
             <marker date="1539900594000" expanded="true" signature="6:37" ph="..." />
-            <marker date="1539900594000" expanded="true" signature="66:2472" ph="{...}" />
             <marker date="1539900594000" expanded="true" signature="93:2470" ph="{...}" />
             <marker date="1539900594000" expanded="true" signature="191:917" ph="{...}" />
             <marker date="1539900594000" expanded="true" signature="440:753" ph="{...}" />
@@ -268,20 +290,6 @@
             <marker date="1539900594000" expanded="true" signature="2073:2174" ph="{...}" />
             <marker date="1539900594000" expanded="true" signature="2243:2332" ph="{...}" />
             <marker date="1539900594000" expanded="true" signature="2365:2464" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CelphoneApplication/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <marker date="1539900594000" expanded="true" signature="6:38" ph="..." />
-            <marker date="1539900594000" expanded="true" signature="69:1523" ph="{...}" />
-            <marker date="1539900594000" expanded="true" signature="98:1521" ph="{...}" />
-            <marker date="1539900594000" expanded="true" signature="151:1515" ph="{...}" />
-            <marker date="1539900594000" expanded="true" signature="752:1470" ph="{...}" />
           </folding>
         </state>
       </provider>

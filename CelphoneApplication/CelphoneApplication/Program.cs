@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Data.SqlTypes;
 using CelularProteccion;
 
 namespace CelphoneApplication
@@ -8,9 +11,22 @@ namespace CelphoneApplication
         public static void Main(string[] args)
         {
             Celular IphoneX = new Celular();
+            
+            Celular[] Celulares = new Celular[3];
+            for (int i = 0; i < Celulares.Length; i++)
+            {
+                Celulares[i] = new Celular();
+            }
+            List<Celular> ListaCelulares = new List<Celular>();
+            
+            Console.WriteLine("¿Que celular quieres utilizar\n" +
+                              "1 >> Iphone X\n" +
+                              "2 >> Galaxy s9+\n" +
+                              "3 >> Xiaomi P22\n");
+            int cel = int.Parse(Console.ReadLine());
 
-            IphoneX.Saldo = 500;
-            IphoneX.NumeroCel = "5568044458";
+            Celulares[cel-1].Saldo = 500;
+            Celulares[cel-1].NumeroCel = "5568044458";
 
             char menu;
             Console.WriteLine("Selecciona una opcion");
@@ -25,19 +41,19 @@ namespace CelphoneApplication
                 switch (menu)
                 {
                      case '1':
-                         IphoneX.LLamar();
+                         Celulares[cel-1].LLamar();
                          break;
                      case '2':
-                         IphoneX.Mensajear();
+                         Celulares[cel-1].Mensajear();
                          break;
                      case '3':
-                         IphoneX.Ingresar_saldo();
+                         Celulares[cel-1].Ingresar_saldo();
                          break;
                      case '4':
-                         IphoneX.Checar_saldo();
+                         Celulares[cel-1].Checar_saldo();
                          break;
                      case '0':
-                         IphoneX.Apagar();
+                         Celulares[cel-1].Apagar();
                          break;
                      default:
                          Console.WriteLine("Ingresa una opcion viable");
