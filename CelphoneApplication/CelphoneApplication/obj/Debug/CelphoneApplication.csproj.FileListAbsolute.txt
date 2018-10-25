@@ -1,0 +1,5 @@
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.exe
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.pdb
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojResolveAssemblyReference.cache
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
+G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb
