@@ -10,7 +10,7 @@ namespace CelularProteccion
 
         ~Celular()
         {
-            Console.WriteLine("Has apagado el celular.");
+            Console.WriteLine("Has dejado el celular.");
         }
         
         public void LLamar()
