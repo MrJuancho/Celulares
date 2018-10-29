@@ -3,3 +3,9 @@ G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplicati
 G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojResolveAssemblyReference.cache
 G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
 G:\Analisis y Diseño de Sistema\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.exe
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\bin\Debug\CelphoneApplication.pdb
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csprojAssemblyReference.cache
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.csproj.CoreCompileInputs.cache
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.exe
+C:\Users\Linux2\Documents\GitHub\Celulares\CelphoneApplication\CelphoneApplication\obj\Debug\CelphoneApplication.pdb

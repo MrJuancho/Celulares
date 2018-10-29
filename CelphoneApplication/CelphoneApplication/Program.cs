@@ -10,14 +10,10 @@ namespace CelphoneApplication
     {
         public static void Main(string[] args)
         {
-            Celular IphoneX = new Celular();
-            
-            Celular[] Celulares = new Celular[3];
-            for (int i = 0; i < Celulares.Length; i++)
-            {
-                Celulares[i] = new Celular();
-            }
-            List<Celular> ListaCelulares = new List<Celular>();
+            List<Celular> Celulares = new List<Celular>();
+            Celulares.Add(new Celular());
+            Celulares.Add(new Celular());
+            Celulares.Add(new Celular());
             
             Console.WriteLine("¿Que celular quieres utilizar\n" +
                               "1 >> Iphone X\n" +
