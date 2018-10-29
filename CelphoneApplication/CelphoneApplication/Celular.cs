@@ -8,6 +8,11 @@ namespace CelularProteccion
         private string numero_cel;
         private int saldo;
 
+        ~Celular()
+        {
+            Console.WriteLine("Has apagado el celular.");
+        }
+        
         public void LLamar()
         {
             string llamada; 
@@ -89,6 +94,6 @@ namespace CelularProteccion
         {
             get { return numero_cel; }
             set { numero_cel = value; }
-        }
+        }  
     }
 }
